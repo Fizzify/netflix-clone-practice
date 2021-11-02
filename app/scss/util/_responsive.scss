@@ -10,7 +10,7 @@
     }
 
     .showcase-content {
-        margin-top: 5rem;
+      margin-top: 5rem;
       h1 {
         font-size: 3.7rem;
         line-height: 1;
@@ -62,13 +62,13 @@
 }
 
 @media (max-height: 922px) {
-    .footer {
-        margin-top: 10em;
-    }
+  .footer {
+    margin-top: 10em;
   }
+}
 
-  @media (max-height: 721px) {
-    .footer {
-        margin-top: 14em;
-    }
+@media (max-height: 721px) {
+  .footer {
+    margin-top: 14em;
   }
+}
